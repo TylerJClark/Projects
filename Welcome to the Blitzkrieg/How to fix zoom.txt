@@ -1,0 +1,3 @@
+Type display settings in search bar
+Select it, then change 125% to 100%, 
+and change resolution to 1920x1080.
